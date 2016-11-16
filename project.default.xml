@@ -20,11 +20,10 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="CopyrightManager" default="League of Amazing Programmers">
-        <copyright>
-          <option name="myName" value="League of Amazing Programmers" />
-          <option name="notice" value="Copyright (c) &amp;#36;today.year. The League of Amazing Programmers, All Rights Reservered" />
-        </copyright>
+      <component name="GradleLocalSettings">
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
@@ -32,9 +31,6 @@
             <option name="mavenHome" value="Bundled (Maven 3)" />
           </MavenGeneralSettings>
         </option>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="Stephen Cerruti" />
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -46,11 +42,7 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" default="true" assert-keyword="false" jdk-15="false" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-        <property name="settings.editor.splitter.proportion" value="0.27307326" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -59,10 +51,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -138,14 +130,11 @@
           <method />
         </configuration>
       </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
       <component name="masterDetails">
         <states>
-          <state key="Copyright.UI">
+          <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>League of Amazing Programmers</last-edited>
+              <last-edited>1.7</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
