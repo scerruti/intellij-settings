@@ -1,5 +1,13 @@
 <application>
   <component name="GitRememberedInputs">
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/scerruti/Robot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
