@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'league-sounds'" />
-    <option name="defaultScopeName" value="Project 'league-sounds'" />
-    <option name="SEARCH_SCOPE" value="Project 'league-sounds'" />
+    <option name="customScope" value="Project 'LeagueSounds'" />
+    <option name="defaultScopeName" value="Project 'LeagueSounds'" />
+    <option name="SEARCH_SCOPE" value="Project 'LeagueSounds'" />
   </component>
 </application>
