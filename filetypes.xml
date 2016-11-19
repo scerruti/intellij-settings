@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="robi" type="Images" />
       <mapping pattern=".checkstyle" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
