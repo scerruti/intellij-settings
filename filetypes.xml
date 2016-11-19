@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".checkstyle" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
