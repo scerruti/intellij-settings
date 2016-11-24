@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'LeagueSounds'" />
-    <option name="defaultScopeName" value="Project 'LeagueSounds'" />
-    <option name="SEARCH_SCOPE" value="Project 'LeagueSounds'" />
+    <option name="customScope" value="File '[test-devops] - .../.gitignore'" />
+    <option name="defaultScopeName" value="File '[test-devops] - .../.gitignore'" />
+    <option name="SEARCH_SCOPE" value="File '[test-devops] - .../.gitignore'" />
   </component>
 </application>
